@@ -1,0 +1,17 @@
+.container {
+    border: 10px solid red;
+    height: 400px;
+    width: 400px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.item {
+    border: 5px solid blueviolet;
+    height: 50px;
+    width: 50px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
